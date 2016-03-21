@@ -5,6 +5,7 @@ C99 code written only using numbers.
 For example, this program calculate Fibonacci sequence to inputted number.
 
 To run this code:
+
 1. Build and run project "CodeGenerator", whitch makes obfuscated code.
 2. Run project "Numberry" or "NumberryCommented"
 
